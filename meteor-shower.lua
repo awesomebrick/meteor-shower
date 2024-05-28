@@ -19,6 +19,7 @@
 -- -pressing buttons on grid will 
 -- make them light up. 
 -- -k3 enables toggle mode
+-- (not implemented yet)
 --
 -- pattern:
 -- -press k3 to cycle through 
