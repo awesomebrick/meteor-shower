@@ -11,28 +11,28 @@ features for now.
 test and display grid LEDs
 
 all modes:
--k2: next lighting mode
--e3: brightness scaling
+k2: next lighting mode
+e3: brightness scaling
 
 individual: 
 -e2 cycles through grid's keys
 
 press: 
--pressing buttons on grid will 
+pressing buttons on grid will 
 make them light up. 
--k3 enables toggle mode
+k3 enables toggle mode
 (not implemented yet)
 
 pattern:
--press k3 to cycle through 
+press k3 to cycle through 
 different patterns on the grid
 (not implemented yet.)
 
 shower:
--meteor shower mode. 
--currently, just randomly sets 
+meteor shower mode. 
+currently, just randomly sets 
 each led's brightness. 
 
 plasma:
-- @tehn's plasma script. 
+@tehn's plasma script. 
 k3 cycles through functions.
