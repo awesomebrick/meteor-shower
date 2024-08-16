@@ -2,7 +2,7 @@
 
 meteor shower: lights, 
         building and fading
-0.0.0 @brick
+0.0.1 @brick
 
 lots of unimplemented
 features for now.
